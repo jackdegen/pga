@@ -1,3 +1,9 @@
+# API keys
+
+src/private.py
+private.py
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
